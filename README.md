@@ -8,5 +8,3 @@ You can support us by contributing to this project development. If you have any 
 [![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/VysakhTG/pyrogram-plugins)   
 [![Contributors](https://img.shields.io/github/contributors/VysakhTG/pyrogram-plugins?style=flat-square&color=green)](https://github.com/VysakhTG/pyrogram-plugins/graphs/contributors)
 [![License](https://img.shields.io/badge/License-AGPL-blue)](https://github.com/VysakhTG/pyrogram-plugins/blob/main/LICENSE)
-[![Sparkline](https://stars.medv.io/VysakhTG/pyrogram-plugins.svg)](https://stars.medv.io/VysakhTG/pyrogram-plugins)
-
